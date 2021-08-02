@@ -1,7 +1,6 @@
 #!/bin/bash
 FILE=urls.txt
 FILENAME="%(title)s"
-
 INDEX=1
 
 while IFS= read -r URL; do
