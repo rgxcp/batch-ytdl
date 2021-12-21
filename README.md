@@ -1,4 +1,4 @@
-# Bash - Batch [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+# 🏭 Bash - Batch [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 
 **EN**: Run `youtube-dl` in batch mode.
 
